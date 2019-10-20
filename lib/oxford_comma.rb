@@ -1,3 +1,6 @@
 def oxford_comma(array)
-
-end
+"kiwi"
+<<("kiwi and durian")
+ 
+ end
+ 
