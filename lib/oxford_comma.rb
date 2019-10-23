@@ -2,11 +2,11 @@ def oxford_comma(array)
   
   if array.size <= 1
 
-  p array.join
+    p array.join
   
   elsif array.size == 2
 
-   p array.join(" and ")
+    p array.join(" and ")
    
   else
     
